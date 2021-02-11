@@ -1,0 +1,79 @@
+{
+   "users": [
+      {
+         "id": 439316103,
+         "bot_id": 1,
+         "username": "TabLock",
+         "blacklist": "furry gay 2boys zoo animals mlp yaoi my_little_pony fur anthro animal_genitalia ",
+         "start_parsing": false,
+         "number_of_page": 1,
+         "tag": "",
+         "favourite": "4040624 4425165 2530758 2388150 1805956 3445439 4383108 4370996 4436240 4434174 4430235 4429552 4428424 4425967 4425380 4422993 4422690 4414172 4421312 4406795 4410457 4436763 3142746 3114330 4432956 4428803 2754909 4331278 4308434 4043135 4211230 3574433 3514481 3487890 2910646 2643178 2150186 2640467 2501733 2042130 2042129 1893454 1893455 1867799 1572403 1547415 1547416 1547414 1544862 4442843 3776193 3579236 3533426 1785144 4443072 4018859 3322214 ",
+         "fav_status": false,
+         "stop": false,
+         "current_image": 0,
+         "last_image": 0,
+         "now": 0
+      },
+      {
+         "id": 912612750,
+         "bot_id": 2,
+         "username": "Vampro",
+         "blacklist": "",
+         "start_parsing": false,
+         "number_of_page": 1,
+         "tag": "",
+         "favourite": "",
+         "fav_status": false,
+         "stop": false,
+         "current_image": 0,
+         "last_image": 0,
+         "now": 0
+      },
+      {
+         "id": 390367794,
+         "bot_id": 3,
+         "username": "nomeans1987",
+         "blacklist": "",
+         "start_parsing": false,
+         "number_of_page": 1,
+         "tag": "",
+         "favourite": "",
+         "fav_status": false,
+         "stop": false,
+         "current_image": 0,
+         "last_image": 0,
+         "now": 0
+      },
+      {
+         "id": 651143250,
+         "bot_id": 4,
+         "username": "Lussal1",
+         "blacklist": "",
+         "start_parsing": false,
+         "number_of_page": 1,
+         "tag": "",
+         "favourite": "",
+         "fav_status": false,
+         "stop": false,
+         "current_image": 0,
+         "last_image": 0,
+         "now": 0
+      },
+      {
+         "id": 1084109889,
+         "bot_id": 5,
+         "username": "DgekiF",
+         "blacklist": "",
+         "start_parsing": false,
+         "number_of_page": 1,
+         "tag": "",
+         "favourite": "",
+         "fav_status": false,
+         "stop": false,
+         "current_image": 0,
+         "last_image": 0,
+         "now": 0
+      }
+   ]
+}
